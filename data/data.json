@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "chefPicture": "https://elementor.zozothemes.com/restaurt/wp-content/uploads/sites/58/2019/04/team-7-1.jpg",
+    "chefName": "Adam Smith",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 3,
+    "likes": 100,
+    "bio": "Adam Smith is a talented Italian chef with over 15 years of experience. She has a passion for using simple, fresh ingredients to create delicious, traditional dishes that evoke the flavors of Italy.",
+    "recipes": [
+      {
+        "name": "Spaghetti Carbonara",
+        "recipeImg": "http://bunch.asiandevelopers.com/wp/radhuni/wp-content/uploads/2015/06/image-8.jpg",
+        "ingredients": [
+          "spaghetti",
+          "bacon",
+          "eggs",
+          "parmesan cheese",
+          "black pepper"
+        ],
+        "method": "Cook the spaghetti in a large pot of boiling salted water until al dente. Meanwhile, cook the bacon in a large skillet over medium heat until crispy. In a small bowl, whisk together the eggs, parmesan cheese, and black pepper. Drain the spaghetti and add it to the skillet with the bacon. Remove the skillet from the heat and pour the egg mixture over the spaghetti, tossing quickly to coat the pasta evenly. Serve immediately.",
+        "rating": 4.8
+      },
+      {
+        "name": "Chicken Parmesan",
+        "recipeImg": "http://bunch.asiandevelopers.com/wp/radhuni/wp-content/uploads/2015/06/image-10.jpg",
+        "ingredients": [
+          "chicken breasts",
+          "breadcrumbs",
+          "parmesan cheese",
+          "mozzarella cheese",
+          "marinara sauce"
+        ],
+        "method": "Preheat the oven to 375°F. Dip the chicken breasts in beaten eggs, then coat with breadcrumbs mixed with parmesan cheese. Place the chicken in a baking dish and top with marinara sauce and mozzarella cheese. Bake for 25-30 minutes, or until the chicken is cooked through and the cheese is melted and bubbly.",
+        "rating": 4.5
+      },
+      {
+        "name": "Penne alla Vodka",
+        "recipeImg": "http://bunch.asiandevelopers.com/wp/radhuni/wp-content/uploads/2015/06/image-11.jpg",
+        "ingredients": [
+          "penne pasta",
+          "vodka",
+          "tomato sauce",
+          "heavy cream",
+          "garlic"
+        ],
+        "method": "Cook the penne pasta in a large pot of boiling salted water until al dente. Meanwhile, heat the tomato sauce and vodka in a large skillet over medium heat until simmering. Add the heavy cream and garlic to the skillet and cook for 1-2 minutes, or until the sauce has thickened slightly. Drain the penne and add it to the skillet with the sauce. Toss to coat the pasta evenly. Serve hot.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chefPicture": "https://elementor.zozothemes.com/restaurt/wp-content/uploads/sites/58/2019/04/team-3-1-1.jpg",
+    "chefName": "Giuseppe Verdi",
+    "yearsOfExperience": 25,
+    "numberOfRecipes": 3,
+    "likes": 150,
+    "bio": "Giuseppe Verdi is a master Italian chef who has been cooking for over 25 years. He is a purist at heart and believes in the importance of using only the freshest ingredients to create authentic Italian dishes.",
+    "recipes": [
+      {
+        "name": "Osso Buco",
+        "recipeImg": "http://bunch.asiandevelopers.com/wp/radhuni/wp-content/uploads/2015/06/image-11.jpg",
+        "ingredients": [
+          "veal shanks",
+          "onions",
+          "carrots",
+          "celery",
+          "tomato paste"
+        ],
+        "method": "Season the veal shanks with salt and pepper, then brown them in a large pot. Remove the shanks and sauté onions, carrots, and celery until they are tender. Add tomato paste and white wine, and simmer for a few minutes. Add the veal shanks back to the pot and cover with chicken broth. Simmer for 2-3 hours, or until the meat is tender and falling off the bone. Serve hot.",
+        "rating": 4.9
+      },
+      {
+        "name": "Caprese Salad",
+        "recipeImg": "http://bunch.asiandevelopers.com/wp/radhuni/wp-content/uploads/2015/06/image-10.jpg",
+        "ingredients": [
+          "tomatoes",
+          "mozzarella cheese",
+          "fresh basil",
+          "olive oil",
+          "balsamic vinegar"
+        ],
+        "method": "Slice the tomatoes and mozzarella cheese into 1/4 inch slices. Arrange them on a plate, alternating between tomato and mozzarella slices. Sprinkle fresh basil on top. Drizzle with olive oil and balsamic vinegar. Season with salt and pepper to taste.",
+        "rating": 4.7
+      },
+      {
+        "name": "Tiramisu",
+        "recipeImg": "http://bunch.asiandevelopers.com/wp/radhuni/wp-content/uploads/2015/06/image-8.jpg",
+        "ingredients": [
+          "mascarpone cheese",
+          "ladyfingers",
+          "coffee",
+          "cocoa powder",
+          "eggs"
+        ],
+        "method": "Mix the mascarpone cheese, egg yolks, and sugar in a large bowl until smooth. In a separate bowl, beat the egg whites until stiff peaks form. Fold the egg whites into the mascarpone mixture. Dip the ladyfingers in coffee and place them in a single layer in a large baking dish. Spread half of the mascarpone mixture on top of the ladyfingers. Repeat with another layer of ladyfingers and mascarpone mixture. Chill for at least 2 hours. Dust with cocoa powder before serving.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chefPicture": "https://elementor.zozothemes.com/restaurt/wp-content/uploads/sites/58/2019/04/team-6-1-1.jpg",
+    "chefName": "Maria Rossi",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 4,
+    "likes": 70,
+    "bio": "Maria Rossi is a talented Italian chef with over 15 years of experience. She has a passion for using simple, fresh ingredients to create delicious, traditional dishes that evoke the flavors of Italy.",
+    "recipes": [
+      {
+        "name": "Spaghetti Carbonara",
+        "recipeImg": "http://bunch.asiandevelopers.com/wp/radhuni/wp-content/uploads/2015/06/image-11.jpg",
+        "ingredients": [
+          "spaghetti",
+          "bacon",
+          "eggs",
+          "Parmesan cheese",
+          "black pepper"
+        ],
+        "method": "Cook spaghetti according to package directions. While the spaghetti is cooking, fry bacon until crispy. Whisk together eggs, Parmesan cheese, and black pepper in a small bowl. Drain the spaghetti and reserve some of the cooking water. Toss the spaghetti with the bacon and egg mixture, adding a little of the reserved cooking water if necessary to make a creamy sauce. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "name": "Margherita Pizza",
+        "recipeImg": "http://bunch.asiandevelopers.com/wp/radhuni/wp-content/uploads/2015/06/image-10.jpg",
+        "ingredients": [
+          "pizza dough",
+          "tomato sauce",
+          "fresh mozzarella cheese",
+          "fresh basil",
+          "olive oil"
+        ],
+        "method": "Preheat oven to 450°F. Roll out pizza dough on a floured surface to desired thickness. Spread tomato sauce on the dough, leaving a little space around the edges. Slice fresh mozzarella cheese and arrange it on top of the sauce. Tear fresh basil leaves and sprinkle them on top of the cheese. Drizzle with olive oil. Bake for 10-12 minutes, or until crust is golden brown and cheese is melted and bubbly. Slice and serve hot.",
+        "rating": 4.8
+      },
+      {
+        "name": "Bruschetta",
+        "recipeImg": "http://bunch.asiandevelopers.com/wp/radhuni/wp-content/uploads/2015/06/image-8.jpg",
+        "ingredients": [
+          "baguette",
+          "tomatoes",
+          "garlic",
+          "fresh basil",
+          "olive oil"
+        ],
+        "method": "Preheat oven to 375°F. Slice baguette into 1/2 inch thick slices and place on a baking sheet. Brush each slice with olive oil and bake for 10-12 minutes, or until lightly toasted. While the bread is toasting, chop tomatoes, garlic, and fresh basil and mix together in a bowl. Drizzle with olive oil and season with salt and pepper to taste. Spoon the tomato mixture onto the toasted baguette slices and serve immediately.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chefPicture": "https://elementor.zozothemes.com/restaurt/wp-content/uploads/sites/58/2019/04/team-2-1-1.jpg",
+    "chefName": "Gordon Ramsay",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 4,
+    "likes": 120,
+    "bio": "Gordon Ramsay is a talented Italian chef with over 15 years of experience. She has a passion for using simple, fresh ingredients to create delicious, traditional dishes that evoke the flavors of Italy.",
+    "recipes": [
+      {
+        "name": "Spaghetti Carbonara",
+        "recipeImg": "http://bunch.asiandevelopers.com/wp/radhuni/wp-content/uploads/2015/06/image-11.jpg",
+        "ingredients": [
+          "spaghetti",
+          "bacon",
+          "eggs",
+          "Parmesan cheese",
+          "black pepper"
+        ],
+        "method": "Cook spaghetti according to package directions. While the spaghetti is cooking, fry bacon until crispy. Whisk together eggs, Parmesan cheese, and black pepper in a small bowl. Drain the spaghetti and reserve some of the cooking water. Toss the spaghetti with the bacon and egg mixture, adding a little of the reserved cooking water if necessary to make a creamy sauce. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "name": "Margherita Pizza",
+        "recipeImg": "http://bunch.asiandevelopers.com/wp/radhuni/wp-content/uploads/2015/06/image-10.jpg",
+        "ingredients": [
+          "pizza dough",
+          "tomato sauce",
+          "fresh mozzarella cheese",
+          "fresh basil",
+          "olive oil"
+        ],
+        "method": "Preheat oven to 450°F. Roll out pizza dough on a floured surface to desired thickness. Spread tomato sauce on the dough, leaving a little space around the edges. Slice fresh mozzarella cheese and arrange it on top of the sauce. Tear fresh basil leaves and sprinkle them on top of the cheese. Drizzle with olive oil. Bake for 10-12 minutes, or until crust is golden brown and cheese is melted and bubbly. Slice and serve hot.",
+        "rating": 4.8
+      },
+      {
+        "name": "Bruschetta",
+        "recipeImg": "http://bunch.asiandevelopers.com/wp/radhuni/wp-content/uploads/2015/06/image-8.jpg",
+        "ingredients": [
+          "baguette",
+          "tomatoes",
+          "garlic",
+          "fresh basil",
+          "olive oil"
+        ],
+        "method": "Preheat oven to 375°F. Slice baguette into 1/2 inch thick slices and place on a baking sheet. Brush each slice with olive oil and bake for 10-12 minutes, or until lightly toasted. While the bread is toasting, chop tomatoes, garlic, and fresh basil and mix together in a bowl. Drizzle with olive oil and season with salt and pepper to taste. Spoon the tomato mixture onto the toasted baguette slices and serve immediately.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chefPicture": "https://elementor.zozothemes.com/restaurt/wp-content/uploads/sites/58/2019/04/team-1-1-1.jpg",
+    "chefName": "Nobu Matsuhisa",
+    "yearsOfExperience": 30,
+    "numberOfRecipes": 4,
+    "likes": 170,
+    "bio": "Nobu Matsuhisa is a talented Italian chef with over 15 years of experience. She has a passion for using simple, fresh ingredients to create delicious, traditional dishes that evoke the flavors of Italy.",
+    "recipes": [
+      {
+        "name": "Spaghetti Carbonara",
+        "recipeImg": "http://bunch.asiandevelopers.com/wp/radhuni/wp-content/uploads/2015/06/image-11.jpg",
+        "ingredients": [
+          "spaghetti",
+          "bacon",
+          "eggs",
+          "Parmesan cheese",
+          "black pepper"
+        ],
+        "method": "Cook spaghetti according to package directions. While the spaghetti is cooking, fry bacon until crispy. Whisk together eggs, Parmesan cheese, and black pepper in a small bowl. Drain the spaghetti and reserve some of the cooking water. Toss the spaghetti with the bacon and egg mixture, adding a little of the reserved cooking water if necessary to make a creamy sauce. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "name": "Margherita Pizza",
+        "recipeImg": "http://bunch.asiandevelopers.com/wp/radhuni/wp-content/uploads/2015/06/image-10.jpg",
+        "ingredients": [
+          "pizza dough",
+          "tomato sauce",
+          "fresh mozzarella cheese",
+          "fresh basil",
+          "olive oil"
+        ],
+        "method": "Preheat oven to 450°F. Roll out pizza dough on a floured surface to desired thickness. Spread tomato sauce on the dough, leaving a little space around the edges. Slice fresh mozzarella cheese and arrange it on top of the sauce. Tear fresh basil leaves and sprinkle them on top of the cheese. Drizzle with olive oil. Bake for 10-12 minutes, or until crust is golden brown and cheese is melted and bubbly. Slice and serve hot.",
+        "rating": 4.8
+      },
+      {
+        "name": "Bruschetta",
+        "recipeImg": "http://bunch.asiandevelopers.com/wp/radhuni/wp-content/uploads/2015/06/image-8.jpg",
+        "ingredients": [
+          "baguette",
+          "tomatoes",
+          "garlic",
+          "fresh basil",
+          "olive oil"
+        ],
+        "method": "Preheat oven to 375°F. Slice baguette into 1/2 inch thick slices and place on a baking sheet. Brush each slice with olive oil and bake for 10-12 minutes, or until lightly toasted. While the bread is toasting, chop tomatoes, garlic, and fresh basil and mix together in a bowl. Drizzle with olive oil and season with salt and pepper to taste. Spoon the tomato mixture onto the toasted baguette slices and serve immediately.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chefPicture": "https://elementor.zozothemes.com/restaurt/wp-content/uploads/sites/58/2019/04/team-5-1-1.jpg",
+    "chefName": "Jamie Oliver",
+    "yearsOfExperience": 30,
+    "numberOfRecipes": 4,
+    "likes": 50,
+    "bio": "Jamie Oliver is a talented Italian chef with over 15 years of experience. She has a passion for using simple, fresh ingredients to create delicious, traditional dishes that evoke the flavors of Italy.",
+    "recipes": [
+      {
+        "name": "Spaghetti Carbonara",
+        "recipeImg": "http://bunch.asiandevelopers.com/wp/radhuni/wp-content/uploads/2015/06/image-11.jpg",
+        "ingredients": [
+          "spaghetti",
+          "bacon",
+          "eggs",
+          "Parmesan cheese",
+          "black pepper"
+        ],
+        "method": "Cook spaghetti according to package directions. While the spaghetti is cooking, fry bacon until crispy. Whisk together eggs, Parmesan cheese, and black pepper in a small bowl. Drain the spaghetti and reserve some of the cooking water. Toss the spaghetti with the bacon and egg mixture, adding a little of the reserved cooking water if necessary to make a creamy sauce. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "name": "Margherita Pizza",
+        "recipeImg": "http://bunch.asiandevelopers.com/wp/radhuni/wp-content/uploads/2015/06/image-10.jpg",
+        "ingredients": [
+          "pizza dough",
+          "tomato sauce",
+          "fresh mozzarella cheese",
+          "fresh basil",
+          "olive oil"
+        ],
+        "method": "Preheat oven to 450°F. Roll out pizza dough on a floured surface to desired thickness. Spread tomato sauce on the dough, leaving a little space around the edges. Slice fresh mozzarella cheese and arrange it on top of the sauce. Tear fresh basil leaves and sprinkle them on top of the cheese. Drizzle with olive oil. Bake for 10-12 minutes, or until crust is golden brown and cheese is melted and bubbly. Slice and serve hot.",
+        "rating": 4.8
+      },
+      {
+        "name": "Bruschetta",
+        "recipeImg": "http://bunch.asiandevelopers.com/wp/radhuni/wp-content/uploads/2015/06/image-8.jpg",
+        "ingredients": [
+          "baguette",
+          "tomatoes",
+          "garlic",
+          "fresh basil",
+          "olive oil"
+        ],
+        "method": "Preheat oven to 375°F. Slice baguette into 1/2 inch thick slices and place on a baking sheet. Brush each slice with olive oil and bake for 10-12 minutes, or until lightly toasted. While the bread is toasting, chop tomatoes, garlic, and fresh basil and mix together in a bowl. Drizzle with olive oil and season with salt and pepper to taste. Spoon the tomato mixture onto the toasted baguette slices and serve immediately.",
+        "rating": 4.7
+      }
+    ]
+  }
+]
